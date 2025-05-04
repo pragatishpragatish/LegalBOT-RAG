@@ -110,8 +110,8 @@ Then visit: [http://localhost:5000](http://localhost:5000)
 
 ## 📸 Screenshots
 
-> Add your screenshots here if needed. Example:
-> ![screenshot](./assets/demo.png)
+![image](https://github.com/user-attachments/assets/e1351c18-ab25-444b-8b40-69b257b70b22)
+
 
 ---
 
